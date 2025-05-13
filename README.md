@@ -1,1 +1,1 @@
-# Loan_Approval_Prediction
+This project uses machine learning techniques to predict the approval of a loan application based on various features like applicant's income, credit score, loan amount, etc. The goal is to develop a predictive model that assists in the loan approval process by providing accurate predictions.
